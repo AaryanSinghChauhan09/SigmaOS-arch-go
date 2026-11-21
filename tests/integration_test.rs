@@ -1,4 +1,4 @@
-use arch_go::Component;
+use sigmaos_go::Component;
 
 #[test]
 fn test_component_new_aaa() {

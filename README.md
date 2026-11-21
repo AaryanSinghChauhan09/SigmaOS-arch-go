@@ -1,4 +1,4 @@
-# SigmaOS-arch-go
+# SigmaOS-go
 
 GitHub description is a placeholder; component scope remains unclassified.
 
